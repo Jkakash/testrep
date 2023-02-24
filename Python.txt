@@ -1,0 +1,20 @@
+https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.html
+
+https://github.com/KeithGalli/matplotlib_tutorial/
+
+https://jonathansoma.com/lede/data-studio/matplotlib/list-all-fonts-available-in-matplotlib-plus-samples/
+
+https://matplotlib.org/3.1.0/gallery/style_sheets/style_sheets_reference.html
+
+https://www.kaggle.com/karangadiya/fifa19
+
+1.Ultimate Electrical Power Protection, Control & Switchgear
+2.Electrical Panels Design and Implementation for M.V and L.V
+3.Protection and Control of High Voltage Power Circuits
+4.Electrical Transformers: Testing and Diagnostics
+5.High Voltage and Insulators for Electrical Power Engineering
+6.The Complete Electrical Power Control and Protection
+7.Learn Sub-Station Engineering-1
+8.
+9.
+10.
